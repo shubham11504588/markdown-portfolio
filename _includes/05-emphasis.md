@@ -1,4 +1,4 @@
-## Below is the top **three** _programming_ languages
+## Below is the top **three** _programming_ languages.
 
 * **Python**
 * Java
