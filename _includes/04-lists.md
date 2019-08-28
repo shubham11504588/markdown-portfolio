@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## Below is the top three programming languages
+
+* Python
+* Java
+* c#
